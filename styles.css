@@ -445,14 +445,6 @@ body::before {
   transform: translateY(-5px) scale(1.2);
 }
 
-.social-icons a:hover .fa-facebook {
-  color: #1877f2;
-}
-
-.social-icons a:hover .fa-instagram {
-  color: #e4405f;
-}
-
 .social-icons a:hover .fa-whatsapp {
   color: #25d366;
 }

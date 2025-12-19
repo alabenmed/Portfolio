@@ -104,3 +104,10 @@
     font-size: 1rem;
   }
 }
+  .footer-bottom p{
+    color: white;
+    font-size: 0.85rem;
+    margin: 0;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+}
